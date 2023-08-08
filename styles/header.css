@@ -43,7 +43,7 @@ header {
 }
 
 header h1 {
-    color: #db4040;
+    color: aqua;
     margin: 0;
     font-size: 50px;
 }
@@ -57,7 +57,7 @@ nav ul {
 }
 
 header nav a {
-    color: #fff;
+    color: aqua#fff;
     font-size: 18px;
     text-decoration: dotted;
 
