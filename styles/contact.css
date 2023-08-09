@@ -55,3 +55,8 @@ button {
 button:hover {
     background-color: #456A78;
 }
+
+table {
+    border: #568496;
+    
+}
